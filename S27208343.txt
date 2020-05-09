@@ -1,0 +1,8 @@
+192.54.222.28 30/August/2018 05:18:52 Mozilla/5.0_(Macintosh;_Intel_Mac_OS_X_10.10;_rv:61.0)_Gecko/20100101_Firefox/61.0 Age: 3	Gender: c
+192.54.222.28 30/August/2018 05:19:12 Mozilla/5.0_(Macintosh;_Intel_Mac_OS_X_10.10;_rv:61.0)_Gecko/20100101_Firefox/61.0 S27208343 0 practice/trial.jpg t(13,18,54,70);t(13,19,12,176); 1
+192.54.222.28 30/August/2018 05:19:15 Mozilla/5.0_(Macintosh;_Intel_Mac_OS_X_10.10;_rv:61.0)_Gecko/20100101_Firefox/61.0 S27208343 1 practice/trial3.jpg t(13,19,12,229);t(13,19,14,730); 1
+192.54.222.28 30/August/2018 05:19:17 Mozilla/5.0_(Macintosh;_Intel_Mac_OS_X_10.10;_rv:61.0)_Gecko/20100101_Firefox/61.0 S27208343 2 practice/trial2.jpg t(13,19,14,786);t(13,19,16,983); 1
+192.54.222.28 30/August/2018 05:19:44 Mozilla/5.0_(Macintosh;_Intel_Mac_OS_X_10.10;_rv:61.0)_Gecko/20100101_Firefox/61.0 S27208343 0 experiment/trial.jpg t(13,19,18,844);t(13,19,44,281); 3
+192.54.222.28 30/August/2018 05:19:46 Mozilla/5.0_(Macintosh;_Intel_Mac_OS_X_10.10;_rv:61.0)_Gecko/20100101_Firefox/61.0 S27208343 1 experiment/trial2.jpg t(13,19,44,334);t(13,19,46,246); 3
+192.54.222.28 30/August/2018 05:19:48 Mozilla/5.0_(Macintosh;_Intel_Mac_OS_X_10.10;_rv:61.0)_Gecko/20100101_Firefox/61.0 S27208343 2 experiment/trial3.jpg t(13,19,46,368);t(13,19,48,371); 5
+192.54.222.28 30/August/2018 05:19:51 Mozilla/5.0_(Macintosh;_Intel_Mac_OS_X_10.10;_rv:61.0)_Gecko/20100101_Firefox/61.0 S27208343 decision v
