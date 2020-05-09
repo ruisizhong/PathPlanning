@@ -1,0 +1,7 @@
+67.80.229.42 09/May/2020 06:08:10 Mozilla/5.0_(Macintosh;_Intel_Mac_OS_X_10_15_4)_AppleWebKit/605.1.15_(KHTML,_like_Gecko)_Version/13.1_Safari/605.1.15 S32041430 0 practice/trial.jpg t(14,8,1,789);t(14,8,10,314); 3
+67.80.229.42 09/May/2020 06:08:12 Mozilla/5.0_(Macintosh;_Intel_Mac_OS_X_10_15_4)_AppleWebKit/605.1.15_(KHTML,_like_Gecko)_Version/13.1_Safari/605.1.15 S32041430 1 practice/trial3.jpg t(14,8,10,387);t(14,8,12,339); 3
+67.80.229.42 09/May/2020 06:08:13 Mozilla/5.0_(Macintosh;_Intel_Mac_OS_X_10_15_4)_AppleWebKit/605.1.15_(KHTML,_like_Gecko)_Version/13.1_Safari/605.1.15 S32041430 2 practice/trial2.jpg t(14,8,12,380);t(14,8,13,872); 3
+67.80.229.42 09/May/2020 06:08:21 Mozilla/5.0_(Macintosh;_Intel_Mac_OS_X_10_15_4)_AppleWebKit/605.1.15_(KHTML,_like_Gecko)_Version/13.1_Safari/605.1.15 S32041430 0 experiment/trial2.jpg t(14,8,17,201);t(14,8,21,110); 1
+67.80.229.42 09/May/2020 06:08:23 Mozilla/5.0_(Macintosh;_Intel_Mac_OS_X_10_15_4)_AppleWebKit/605.1.15_(KHTML,_like_Gecko)_Version/13.1_Safari/605.1.15 S32041430 1 experiment/trial3.jpg t(14,8,21,145);t(14,8,23,354); 1
+67.80.229.42 09/May/2020 06:08:24 Mozilla/5.0_(Macintosh;_Intel_Mac_OS_X_10_15_4)_AppleWebKit/605.1.15_(KHTML,_like_Gecko)_Version/13.1_Safari/605.1.15 S32041430 2 experiment/trial.jpg t(14,8,23,395);t(14,8,24,728); 1
+67.80.229.42 09/May/2020 06:08:31 Mozilla/5.0_(Macintosh;_Intel_Mac_OS_X_10_15_4)_AppleWebKit/605.1.15_(KHTML,_like_Gecko)_Version/13.1_Safari/605.1.15 S32041430 decision best looking
