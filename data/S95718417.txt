@@ -1,0 +1,7 @@
+67.80.229.42 09/May/2020 06:20:20 Mozilla/5.0_(Macintosh;_Intel_Mac_OS_X_10_15_4)_AppleWebKit/605.1.15_(KHTML,_like_Gecko)_Version/13.1_Safari/605.1.15 S95718417 0 practice/trial2.jpg t(14,20,18,129);t(14,20,20,8); 1
+67.80.229.42 09/May/2020 06:20:21 Mozilla/5.0_(Macintosh;_Intel_Mac_OS_X_10_15_4)_AppleWebKit/605.1.15_(KHTML,_like_Gecko)_Version/13.1_Safari/605.1.15 S95718417 1 practice/trial.jpg t(14,20,20,46);t(14,20,21,166); 1
+67.80.229.42 09/May/2020 06:20:22 Mozilla/5.0_(Macintosh;_Intel_Mac_OS_X_10_15_4)_AppleWebKit/605.1.15_(KHTML,_like_Gecko)_Version/13.1_Safari/605.1.15 S95718417 2 practice/trial3.jpg t(14,20,21,202);t(14,20,22,254); 1
+67.80.229.42 09/May/2020 06:20:25 Mozilla/5.0_(Macintosh;_Intel_Mac_OS_X_10_15_4)_AppleWebKit/605.1.15_(KHTML,_like_Gecko)_Version/13.1_Safari/605.1.15 S95718417 0 experiment/trial3.jpg t(14,20,23,875);t(14,20,25,322); 1
+67.80.229.42 09/May/2020 06:20:26 Mozilla/5.0_(Macintosh;_Intel_Mac_OS_X_10_15_4)_AppleWebKit/605.1.15_(KHTML,_like_Gecko)_Version/13.1_Safari/605.1.15 S95718417 1 experiment/trial.jpg t(14,20,25,364);t(14,20,26,450); 1
+67.80.229.42 09/May/2020 06:20:28 Mozilla/5.0_(Macintosh;_Intel_Mac_OS_X_10_15_4)_AppleWebKit/605.1.15_(KHTML,_like_Gecko)_Version/13.1_Safari/605.1.15 S95718417 2 experiment/trial2.jpg t(14,20,26,483);t(14,20,28,872); 1
+67.80.229.42 09/May/2020 06:20:34 Mozilla/5.0_(Macintosh;_Intel_Mac_OS_X_10_15_4)_AppleWebKit/605.1.15_(KHTML,_like_Gecko)_Version/13.1_Safari/605.1.15 S95718417 decision chocolate!
